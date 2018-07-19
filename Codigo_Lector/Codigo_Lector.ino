@@ -24,8 +24,9 @@
 int led=12;
 // the setup function runs once when you press reset or power the board                          
 void setup() {
-  // initialize digital pin LED_BUILTIN as an output.
-  // cambio2
+  // initialize digital pin LED_BUILTIN as an output
+  <<<<<<< develop
+  //cambio en develop
   pinMode(led, OUTPUT);
 }
 
